@@ -52,10 +52,14 @@
      <Folder Include="Assets\FLL" />
      <None Include="Assets\FLL\_5\Chapter5-SimpleShader3.shader" />
      <None Include="Assets\FLL\_5\Chapter5-SimpleShader1.shader" />
+     <Folder Include="Assets\FLL\_6" />
      <None Include="Assets\FLL\_5\Chapter5-FalseColor.shader" />
      <Folder Include="Assets\_1Matrix" />
+     <None Include="Assets\FLL\_6\Chapter6-HalfLambert.shader" />
      <None Include="Assets\FLL\_5\Chapter5-SimpleShader2.shader" />
+     <None Include="Assets\FLL\_6\Chapter6-DiffuseVertexLevel.shader" />
      <Folder Include="Assets\Scenes" />
+     <None Include="Assets\FLL\_6\Chapter6-DiffusePixelLevel.shader" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.18f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
