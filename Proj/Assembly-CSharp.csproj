@@ -53,6 +53,7 @@
      <None Include="Assets\FLL\_5\Chapter5-SimpleShader3.shader" />
      <None Include="Assets\FLL\_5\Chapter5-SimpleShader1.shader" />
      <Folder Include="Assets\FLL\_6" />
+     <None Include="Assets\FLL\_6\Chapter6-SpecularPixelLevel.shader" />
      <None Include="Assets\FLL\_5\Chapter5-FalseColor.shader" />
      <Folder Include="Assets\_1Matrix" />
      <None Include="Assets\FLL\_6\Chapter6-HalfLambert.shader" />
