@@ -50,6 +50,7 @@
      <Folder Include="Assets" />
      <Folder Include="Assets\FLL\_5" />
      <Folder Include="Assets\FLL" />
+     <None Include="Assets\FLL\_6\Chapter6-BlinnPhong.shader" />
      <None Include="Assets\FLL\_5\Chapter5-SimpleShader3.shader" />
      <None Include="Assets\FLL\_5\Chapter5-SimpleShader1.shader" />
      <Folder Include="Assets\FLL\_6" />
