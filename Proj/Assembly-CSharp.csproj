@@ -52,6 +52,7 @@
      <Folder Include="Assets\FLL\_7" />
      <Folder Include="Assets\FLL" />
      <None Include="Assets\FLL\_6\Chapter6-BlinnPhong.shader" />
+     <None Include="Assets\FLL\_7\Chapter7-MaskTexture.shader" />
      <None Include="Assets\FLL\_5\Chapter5-SimpleShader3.shader" />
      <None Include="Assets\FLL\_5\Chapter5-SimpleShader1.shader" />
      <Folder Include="Assets\FLL\_6" />
@@ -66,6 +67,7 @@
      <None Include="Assets\FLL\_6\Chapter6-DiffuseVertexLevel.shader" />
      <Folder Include="Assets\Scenes" />
      <None Include="Assets\FLL\_6\Chapter6-DiffusePixelLevel.shader" />
+     <None Include="Assets\FLL\_7\Chapter7-RampTexture.shader" />
      <None Include="Assets\FLL\_7\Chapter7-NormalMapTangentSpace.shader" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.18f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
